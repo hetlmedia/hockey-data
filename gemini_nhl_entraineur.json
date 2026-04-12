@@ -1,0 +1,328 @@
+{
+"meta":{
+	"last_updated": "2026-04-12",
+	"description": "Liste officielle des entraîneurs-chefs et DG de la LNH"
+},
+"teams":[{		
+	"team_abbr": "ANA",
+	"team_name": "Anaheim Ducks",
+	"head_coach": {
+		"name": "Joel Quenneville",
+		"hired_date": "2025-05-08"
+	},
+	"general_manager": {
+		"name": "Pat Verbeek",
+		"hired_date": "2022-02-03"
+	}},{		
+	"team_abbr": "BOS",
+	"team_name": "Boston Bruins",
+	"head_coach": {
+		"name": "Marco Sturm",
+		"hired_date": "2025-06-05"
+	},
+	"general_manager": {
+		"name": "Don Sweeney",
+		"hired_date": "2015-05-20"
+	}},{		
+	"team_abbr": "BUF",
+	"team_name": "Buffalo Sabres",
+	"head_coach": {
+		"name": "Lindy Ruff",
+		"hired_date": "2024-04-22"
+	},
+	"general_manager": {
+		"name": "Jarmo Kekalainen",
+		"hired_date": "2025-12-15"
+	}},{		
+	"team_abbr": "CAR",
+	"team_name": "Carolina Hurricanes",
+	"head_coach": {
+		"name": "Rod Brind'Amour",
+		"hired_date": "2018-05-08"
+	},
+	"general_manager": {
+		"name": "Eric Tulsky",
+		"hired_date": "2024-05-24"
+	}},{		
+	"team_abbr": "CGY",
+	"team_name": "Calgary Flames",
+	"head_coach": {
+		"name": "Ryan Huska",
+		"hired_date": "2023-06-12"
+	},
+	"general_manager": {
+		"name": "Craig Conroy",
+		"hired_date": "2023-05-23"
+	}},{		
+	"team_abbr": "CHI",
+	"team_name": "Chicago Blackhawks",
+	"head_coach": {
+		"name": "Jeff Blashill",
+		"hired_date": "2025-05-22"
+	},
+	"general_manager": {
+		"name": "Kyle Davidson",
+		"hired_date": "2021-10-26"
+	}},{		
+	"team_abbr": "CLB",
+	"team_name": "Columbus Blue Jackets",
+	"head_coach": {
+		"name": "Rick Bowness",
+		"hired_date": "2026-01-12"
+	},
+	"general_manager": {
+		"name": "Don Waddell",
+		"hired_date": "2024-05-28"
+	}},{		
+	"team_abbr": "COL",
+	"team_name": "Colorado Avalanche",
+	"head_coach": {
+		"name": "Jared Bednar",
+		"hired_date": "2016-08-25"
+	},
+	"general_manager": {
+		"name": "Chris MacFarland",
+		"hired_date": "2022-07-11"
+	}},{		
+	"team_abbr": "DAL",
+	"team_name": "Dallas Stars",
+	"head_coach": {
+		"name": "Glen Gulutzan",
+		"hired_date": "2025-07-01"
+	},
+	"general_manager": {
+		"name": "Jim Nill",
+		"hired_date": "2013-04-29"
+	}},{		
+	"team_abbr": "DET",
+	"team_name": "Detroit Red Wings",
+	"head_coach": {
+		"name": "Todd McLellan",
+		"hired_date": "2024-12-26"
+	},
+	"general_manager": {
+		"name": "Steve Yzerman",
+		"hired_date": "2019-04-19"
+	}},{		
+	"team_abbr": "EDM",
+	"team_name": "Edmonton Oilers",
+	"head_coach": {
+		"name": "Kris Knoblauch",
+		"hired_date": "2023-11-12"
+	},
+	"general_manager": {
+		"name": "Stan Bowman",
+		"hired_date": "2024-07-24"
+	}},{		
+	"team_abbr": "FLA",
+	"team_name": "Florida Panthers",
+	"head_coach": {
+		"name": "Paul Maurice",
+		"hired_date": "2022-06-22"
+	},
+	"general_manager": {
+		"name": "Bill Zito",
+		"hired_date": "2020-09-02"
+	}},{		
+	"team_abbr": "LA",
+	"team_name": "Los Angeles Kings",
+	"head_coach": {
+		"name": "D.J. Smith",
+		"hired_date": "2026-03-01"
+	},
+	"general_manager": {
+		"name": "Ken Holland",
+		"hired_date": "2025-05-14"
+	}},{		
+	"team_abbr": "LV",
+	"team_name": "Vegas Knights",
+	"head_coach": {
+		"name": "Bruce Cassidy",
+		"hired_date": "2022-06-14"
+	},
+	"general_manager": {
+		"name": "Kelly McCrimmon",
+		"hired_date": "2019-09-01"
+	}},{		
+	"team_abbr": "MIN",
+	"team_name": "Minnesota Wild",
+	"head_coach": {
+		"name": "John Hynes",
+		"hired_date": "2023-11-27"
+	},
+	"general_manager": {
+		"name": "Bill Guerin",
+		"hired_date": "2019-08-21"
+	}},{		
+	"team_abbr": "MON",
+	"team_name": "Montreal Canadiens",
+	"head_coach": {
+		"name": "Martin St-Louis",
+		"hired_date": "2022-02-09"
+	},
+	"general_manager": {
+		"name": "Kent Hughes",
+		"hired_date": "2022-01-18"
+	}},{		
+	"team_abbr": "NJ",
+	"team_name": "New Jersey Devils",
+	"head_coach": {
+		"name": "Sheldon Keefe",
+		"hired_date": "2024-05-23"
+	},
+	"general_manager": {
+		"name": "Tom Fitzgerald",
+		"hired_date": "2020-01-12"
+	}},{		
+	"team_abbr": "NSH",
+	"team_name": "Nashville Predators",
+	"head_coach": {
+		"name": "Andrew Brunette",
+		"hired_date": "2023-05-31"
+	},
+	"general_manager": {
+		"name": "Barry Trotz",
+		"hired_date": "2023-07-01"
+	}},{		
+	"team_abbr": "NYI",
+	"team_name": "New York Islanders",
+	"head_coach": {
+		"name": "Patrick Roy",
+		"hired_date": "2024-01-20"
+	},
+	"general_manager": {
+		"name": "Mathieu Darche",
+		"hired_date": "2025-05-23"
+	}},{		
+	"team_abbr": "NYR",
+	"team_name": "New York Rangers",
+	"head_coach": {
+		"name": "Mike Sullivan",
+		"hired_date": "2025-05-02"
+	},
+	"general_manager": {
+		"name": "Chris Drury",
+		"hired_date": "2021-05-05"
+	}},{		
+	"team_abbr": "OTT",
+	"team_name": "Ottawa Senators",
+	"head_coach": {
+		"name": "Travis Green",
+		"hired_date": "2024-05-07"
+	},
+	"general_manager": {
+		"name": "Steve Staios",
+		"hired_date": "2023-11-01"
+	}},{		
+	"team_abbr": "PHI",
+	"team_name": "Philadelphia Flyers",
+	"head_coach": {
+		"name": "Rick Tocchet",
+		"hired_date": "2025-05-14"
+	},
+	"general_manager": {
+		"name": "Daniel Briere",
+		"hired_date": "2023-03-10"
+	}},{		
+	"team_abbr": "PIT",
+	"team_name": "Pittsburgh Penguins",
+	"head_coach": {
+		"name": "Dan Muse",
+		"hired_date": "2025-06-04"
+	},
+	"general_manager": {
+		"name": "Kyle Dubas",
+		"hired_date": "2023-08-03"
+	}},{		
+	"team_abbr": "SEA",
+	"team_name": "Seattle Kraken",
+	"head_coach": {
+		"name": "Lane Lambert",
+		"hired_date": "2025-05-29"
+	},
+	"general_manager": {
+		"name": "Jason Botterill",
+		"hired_date": "2025-04-22"
+	}},{		
+	"team_abbr": "SJ",
+	"team_name": "San Jose Sharks",
+	"head_coach": {
+		"name": "Ryan Warsofsky",
+		"hired_date": "2024-06-13"
+	},
+	"general_manager": {
+		"name": "Mike Grier",
+		"hired_date": "2022-07-05"
+	}},{		
+	"team_abbr": "STL",
+	"team_name": "St-Louis Blues",
+	"head_coach": {
+		"name": "Jim Montgomery",
+		"hired_date": "2024-11-24"
+	},
+	"general_manager": {
+		"name": "Doug Armstrong",
+		"hired_date": "2010-07-01"
+	}},{		
+	"team_abbr": "TB",
+	"team_name": "Tampa Bay Lightning",
+	"head_coach": {
+		"name": "Jon Cooper",
+		"hired_date": "2013-03-25"
+	},
+	"general_manager": {
+		"name": "Julien Brisebois",
+		"hired_date": "2018-09-11"
+	}},{		
+	"team_abbr": "TOR",
+	"team_name": "Toronto Maple Leafs",
+	"head_coach": {
+		"name": "Craig Berube",
+		"hired_date": "2024-05-17"
+	},
+	"general_manager": {
+		"name": "Brad Treliving",
+		"hired_date": "2023-05-31"
+	}},{		
+	"team_abbr": "UTA",
+	"team_name": "Utah Mammoth",
+	"head_coach": {
+		"name": "Andre Tourigny",
+		"hired_date": "2024-04-18"
+	},
+	"general_manager": {
+		"name": "Bill Armstrong",
+		"hired_date": "2024-04-18"
+	}},{		
+	"team_abbr": "VAN",
+	"team_name": "Vancouver Canucks",
+	"head_coach": {
+		"name": "Adam Foote",
+		"hired_date": "2025-05-14"
+	},
+	"general_manager": {
+		"name": "Patrik Allvin",
+		"hired_date": "2022-01-26"
+	}},{		
+	"team_abbr": "WAS",
+	"team_name": "Washington Capitals",
+	"head_coach": {
+		"name": "Spencer Carbery",
+		"hired_date": "2023-05-30"
+	},
+	"general_manager": {
+		"name": "Chris Patrick",
+		"hired_date": "2024-07-08"
+	}},{		
+	"team_abbr": "WPG",
+	"team_name": "Winnipeg Jets",
+	"head_coach": {
+		"name": "Scott Arniel",
+		"hired_date": "2024-05-24"
+	},
+	"general_manager": {
+		"name": "Kevin Cheveldayoff",
+		"hired_date": "2011-06-08"
+	}}
+]
+}
