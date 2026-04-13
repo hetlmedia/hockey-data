@@ -206,6 +206,10 @@
 		"name": "Peter DeBoer",
 		"hired_date": "2026-04-05"
 	},
+	"head_coach": {
+		"name": "Peter DeBoer",
+		"hired_date": "2026-04-05"
+	},
 	"general_manager": {
 		"name": "Mathieu Darche",
 		"hired_date": "2025-05-23"
