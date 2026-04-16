@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "LA",
 		"team_name": "Los Angeles Kings",
-		"last_updated": "2026-04-15"
+		"last_updated": "2026-04-16"
 		},"staff":{"head_coach": "D.J. Smith", "gm": "Ken Holland"},
 			"team_stats": {
 			"record": "35-26-20",
@@ -11,8 +11,8 @@
 			"ga": 244,
 			"gf_pg": 2.8,
 			"ga_pg": 3.0,
-			"rank_overall": 20,
-			"rank_division": 4,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"15-17-9",
 			"aw":"20-9-11",
 			"lg":"OL 3-4 @ VAN (2026-04-14 22:00)",
