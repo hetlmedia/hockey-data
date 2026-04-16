@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "EDM",
 		"team_name": "Edmonton Oilers",
-		"last_updated": "2026-04-15"
+		"last_updated": "2026-04-16"
 		},"staff":{"head_coach": "Kris Knoblauch", "gm": "Stan Bowman"},
 			"team_stats": {
 			"record": "40-30-11",
@@ -11,8 +11,8 @@
 			"ga": 268,
 			"gf_pg": 3.4,
 			"ga_pg": 3.3,
-			"rank_overall": 17,
-			"rank_division": 2,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"21-14-5",
 			"aw":"19-16-6",
 			"lg":"SL 1-2 vs COL (2026-04-13 21:30)",
