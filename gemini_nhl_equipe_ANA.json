@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "ANA",
 		"team_name": "Anaheim Ducks",
-		"last_updated": "2026-04-15"
+		"last_updated": "2026-04-16"
 		},"staff":{"head_coach": "Joel Quenneville", "gm": "Pat Verbeek"},
 			"team_stats": {
 			"record": "42-33-6",
@@ -11,8 +11,8 @@
 			"ga": 283,
 			"gf_pg": 3.3,
 			"ga_pg": 3.5,
-			"rank_overall": 19,
-			"rank_division": 3,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"24-13-4",
 			"aw":"18-20-2",
 			"lg":"L 2-3 @ MIN (2026-04-14 20:00)",
