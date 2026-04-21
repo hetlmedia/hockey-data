@@ -315,10 +315,6 @@
 	"head_coach": {
 		"name": "Adam Foote",
 		"hired_date": "2025-05-14"
-	},
-	"general_manager": {
-		"name": "Patrik Allvin",
-		"hired_date": "2022-01-26"
 	}},{		
 	"team_abbr": "WAS",
 	"team_name": "Washington Capitals",
