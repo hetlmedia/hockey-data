@@ -137,8 +137,8 @@
 	"team_abbr": "LV",
 	"team_name": "Vegas Knights",
 	"head_coach": {
-		"name": "Bruce Cassidy",
-		"hired_date": "2022-06-14"
+		"name": "John Tortorella",
+		"hired_date": "2026-03-29"
 	},
 	"general_manager": {
 		"name": "Kelly McCrimmon",
@@ -186,26 +186,6 @@
 	}},{		
 	"team_abbr": "NYI",
 	"team_name": "New York Islanders",
-	"head_coach": {
-		"name": "Peter DeBoer",
-		"hired_date": "2026-04-05"
-	},
-	"head_coach": {
-		"name": "Peter DeBoer",
-		"hired_date": "2026-04-05"
-	},
-	"head_coach": {
-		"name": "Peter DeBoer",
-		"hired_date": "2026-04-05"
-	},
-	"head_coach": {
-		"name": "Peter DeBoer",
-		"hired_date": "2026-04-05"
-	},
-	"head_coach": {
-		"name": "Peter DeBoer",
-		"hired_date": "2026-04-05"
-	},
 	"head_coach": {
 		"name": "Peter DeBoer",
 		"hired_date": "2026-04-05"
