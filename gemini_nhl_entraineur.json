@@ -106,10 +106,6 @@
 	}},{		
 	"team_abbr": "EDM",
 	"team_name": "Edmonton Oilers",
-	"head_coach": {
-		"name": "Kris Knoblauch",
-		"hired_date": "2023-11-12"
-	},
 	"general_manager": {
 		"name": "Stan Bowman",
 		"hired_date": "2024-07-24"
@@ -273,12 +269,6 @@
 	"general_manager": {
 		"name": "Julien Brisebois",
 		"hired_date": "2018-09-11"
-	}},{		
-	"team_abbr": "TOR",
-	"team_name": "Toronto Maple Leafs",
-	"head_coach": {
-		"name": "Craig Berube",
-		"hired_date": "2024-05-17"
 	}},{		
 	"team_abbr": "UTA",
 	"team_name": "Utah Mammoth",
