@@ -130,10 +130,6 @@
 		"name": "Peter Laviolette",
 		"hired_date": "2026-06-09"
 	},
-	"head_coach": {
-		"name": "D.J. Smith",
-		"hired_date": "2026-03-01"
-	},
 	"general_manager": {
 		"name": "Ken Holland",
 		"hired_date": "2025-05-14"
@@ -277,6 +273,12 @@
 	"general_manager": {
 		"name": "Julien Brisebois",
 		"hired_date": "2018-09-11"
+	}},{		
+	"team_abbr": "TOR",
+	"team_name": "Toronto Maple Leafs",
+	"head_coach": {
+		"name": "Jim Hiller",
+		"hired_date": "2026-06-17"
 	}},{		
 	"team_abbr": "UTA",
 	"team_name": "Utah Mammoth",
