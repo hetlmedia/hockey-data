@@ -106,6 +106,10 @@
 	}},{		
 	"team_abbr": "EDM",
 	"team_name": "Edmonton Oilers",
+	"head_coach": {
+		"name": "Mike Babcock",
+		"hired_date": "2026-06-23"
+	},
 	"general_manager": {
 		"name": "Stan Bowman",
 		"hired_date": "2024-07-24"
@@ -123,6 +127,10 @@
 	"team_abbr": "LA",
 	"team_name": "Los Angeles Kings",
 	"head_coach": {
+		"name": "Peter Laviolette",
+		"hired_date": "2026-06-09"
+	},
+	"head_coach": {
 		"name": "D.J. Smith",
 		"hired_date": "2026-03-01"
 	},
@@ -133,8 +141,8 @@
 	"team_abbr": "LV",
 	"team_name": "Vegas Knights",
 	"head_coach": {
-		"name": "John Tortorella",
-		"hired_date": "2026-03-29"
+		"name": "Ryan Craig",
+		"hired_date": "2026-06-17"
 	},
 	"general_manager": {
 		"name": "Kelly McCrimmon",
@@ -283,8 +291,8 @@
 	"team_abbr": "VAN",
 	"team_name": "Vancouver Canucks",
 	"head_coach": {
-		"name": "Adam Foote",
-		"hired_date": "2025-05-14"
+		"name": "Manny Malhotra",
+		"hired_date": "2026-06-01"
 	}},{		
 	"team_abbr": "WAS",
 	"team_name": "Washington Capitals",
