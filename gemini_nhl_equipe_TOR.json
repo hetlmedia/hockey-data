@@ -3,7 +3,7 @@
 		"team_abbr": "TOR",
 		"team_name": "Toronto Maple Leafs",
 		"last_updated": "2026-07-06"
-		},
+		},"staff":{"head_coach": "Jim Hiller"},
 			"team_stats": {
 			"record": "32-36-14",
 			"pts": 78,
