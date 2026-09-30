@@ -7,8 +7,8 @@
 			"team_stats": {
 			"record": "0-0-0",
 			"pts": 0,
-			"gf": 0,
-			"ga": 0,
+			"gf": 2,
+			"ga": 1,
 			"gf_pg": -,
 			"ga_pg": -,
 			"rank_overall": 0,
@@ -16,7 +16,7 @@
 			"hm":"0-0-0",
 			"aw":"0-0-0",
 			"lg":"W 4-3 vs SEA (2026-09-26 19:00)",
-			"ng":"@ EDM (2026-09-29 22:00)"
+			"ng":"vs EDM (2026-10-1 22:00)"
 			},
 			"current_form": {
 				"streak": "W1",
