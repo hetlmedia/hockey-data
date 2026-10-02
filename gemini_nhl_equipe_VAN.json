@@ -2,15 +2,15 @@
 		"meta": {
 		"team_abbr": "VAN",
 		"team_name": "Vancouver Canucks",
-		"last_updated": "2026-10-01"
+		"last_updated": "2026-10-02"
 		},"staff":{"head_coach": "Manny Malhotra"},
 			"team_stats": {
 			"record": "1-0-0",
 			"pts": 2,
-			"gf": 6,
-			"ga": 10,
-			"gf_pg": 6.0,
-			"ga_pg": 10.0,
+			"gf": 10,
+			"ga": 13,
+			"gf_pg": 10.0,
+			"ga_pg": 13.0,
 			"rank_overall": 0,
 			"rank_division": 0,
 			"hm":"0-0-0",
