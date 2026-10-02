@@ -2,13 +2,13 @@
 		"meta": {
 		"team_abbr": "SJ",
 		"team_name": "San Jose Sharks",
-		"last_updated": "2026-10-01"
+		"last_updated": "2026-10-02"
 		},"staff":{"head_coach": "Ryan Warsofsky", "gm": "Mike Grier"},
 			"team_stats": {
 			"record": "0-0-0",
 			"pts": 0,
-			"gf": 1,
-			"ga": 0,
+			"gf": 3,
+			"ga": 1,
 			"gf_pg": -,
 			"ga_pg": -,
 			"rank_overall": 0,
