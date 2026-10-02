@@ -2,15 +2,15 @@
 		"meta": {
 		"team_abbr": "FLA",
 		"team_name": "Florida Panthers",
-		"last_updated": "2026-10-01"
+		"last_updated": "2026-10-02"
 		},"staff":{"head_coach": "Paul Maurice", "gm": "Bill Zito"},
 			"team_stats": {
 			"record": "1-0-0",
 			"pts": 2,
-			"gf": 1,
-			"ga": 1,
-			"gf_pg": 1.0,
-			"ga_pg": 1.0,
+			"gf": 2,
+			"ga": 3,
+			"gf_pg": 2.0,
+			"ga_pg": 3.0,
 			"rank_overall": 0,
 			"rank_division": 0,
 			"hm":"0-0-0",
