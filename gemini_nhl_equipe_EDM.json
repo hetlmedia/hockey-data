@@ -2,15 +2,15 @@
 		"meta": {
 		"team_abbr": "EDM",
 		"team_name": "Edmonton Oilers",
-		"last_updated": "2026-10-01"
+		"last_updated": "2026-10-02"
 		},"staff":{"head_coach": "Mike Babcock", "gm": "Stan Bowman"},
 			"team_stats": {
 			"record": "0-0-1",
 			"pts": 1,
-			"gf": 10,
-			"ga": 6,
-			"gf_pg": 10.0,
-			"ga_pg": 6.0,
+			"gf": 13,
+			"ga": 10,
+			"gf_pg": 13.0,
+			"ga_pg": 10.0,
 			"rank_overall": 0,
 			"rank_division": 0,
 			"hm":"0-0-1",
