@@ -2,13 +2,13 @@
 		"meta": {
 		"team_abbr": "DAL",
 		"team_name": "Dallas Stars",
-		"last_updated": "2026-10-02"
+		"last_updated": "2026-10-03"
 		},"staff":{"head_coach": "Glen Gulutzan", "gm": "Jim Nill"},
 			"team_stats": {
 			"record": "0-0-0",
 			"pts": 0,
 			"gf": 0,
-			"ga": 1,
+			"ga": 2,
 			"gf_pg": -,
 			"ga_pg": -,
 			"rank_overall": 0,
