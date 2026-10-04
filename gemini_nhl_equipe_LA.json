@@ -2,15 +2,15 @@
 		"meta": {
 		"team_abbr": "LA",
 		"team_name": "Los Angeles Kings",
-		"last_updated": "2026-10-03"
+		"last_updated": "2026-10-04"
 		},"staff":{"head_coach": "Peter Laviolette", "gm": "Ken Holland"},
 			"team_stats": {
 			"record": "0-1-0",
 			"pts": 0,
-			"gf": 5,
-			"ga": 9,
-			"gf_pg": 5.0,
-			"ga_pg": 9.0,
+			"gf": 6,
+			"ga": 11,
+			"gf_pg": 6.0,
+			"ga_pg": 11.0,
 			"rank_overall": 0,
 			"rank_division": 0,
 			"hm":"0-0-0",
