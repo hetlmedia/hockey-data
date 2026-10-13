@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "COL",
 		"team_name": "Colorado Avalanche",
-		"last_updated": "2026-10-12"
+		"last_updated": "2026-10-13"
 		},"staff":{"head_coach": "Jared Bednar", "gm": "Chris MacFarland"},
 			"team_stats": {
 			"record": "3-2-0",
@@ -11,8 +11,8 @@
 			"ga": 17,
 			"gf_pg": 5.2,
 			"ga_pg": 3.4,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 15,
+			"rank_division": 4,
 			"hm":"2-1-0",
 			"aw":"1-1-0",
 			"lg":"L 3-6 vs TOR (2026-10-10 19:00)",
