@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "FLA",
 		"team_name": "Florida Panthers",
-		"last_updated": "2026-10-16"
+		"last_updated": "2026-10-17"
 		},"staff":{"head_coach": "Paul Maurice", "gm": "Bill Zito"},
 			"team_stats": {
 			"record": "4-2-2",
@@ -11,8 +11,8 @@
 			"ga": 22,
 			"gf_pg": 2.8,
 			"ga_pg": 2.8,
-			"rank_overall": 12,
-			"rank_division": 4,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"1-1-0",
 			"aw":"3-1-2",
 			"lg":"OW 3-2 vs VAN (2026-10-15 19:00)",
