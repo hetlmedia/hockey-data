@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "TB",
 		"team_name": "Tampa Bay Lightning",
-		"last_updated": "2026-10-16"
+		"last_updated": "2026-10-17"
 		},"staff":{"head_coach": "Jon Cooper", "gm": "Julien Brisebois"},
 			"team_stats": {
 			"record": "5-2-0",
@@ -11,8 +11,8 @@
 			"ga": 19,
 			"gf_pg": 3.0,
 			"ga_pg": 2.7,
-			"rank_overall": 10,
-			"rank_division": 3,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"4-0-0",
 			"aw":"1-2-0",
 			"lg":"OW 4-3 vs SEA (2026-10-15 19:00)",
