@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "MON",
 		"team_name": "Montreal Canadiens",
-		"last_updated": "2026-10-16"
+		"last_updated": "2026-10-17"
 		},"staff":{"head_coach": "Martin St-Louis", "gm": "Kent Hughes"},
 			"team_stats": {
 			"record": "3-3-1",
@@ -11,8 +11,8 @@
 			"ga": 27,
 			"gf_pg": 3.3,
 			"ga_pg": 3.9,
-			"rank_overall": 25,
-			"rank_division": 7,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"2-2-0",
 			"aw":"1-1-1",
 			"lg":"L 4-5 @ WAS (2026-10-14 19:30)",
