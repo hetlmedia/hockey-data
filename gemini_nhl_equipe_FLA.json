@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "FLA",
 		"team_name": "Florida Panthers",
-		"last_updated": "2026-10-18"
+		"last_updated": "2026-10-19"
 		},"staff":{"head_coach": "Paul Maurice", "gm": "Bill Zito"},
 			"team_stats": {
 			"record": "5-2-2",
@@ -11,8 +11,8 @@
 			"ga": 25,
 			"gf_pg": 3.3,
 			"ga_pg": 2.8,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 9,
+			"rank_division": 3,
 			"hm":"2-1-0",
 			"aw":"3-1-2",
 			"lg":"W 8-3 vs SEA (2026-10-17 18:00)",
