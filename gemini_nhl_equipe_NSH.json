@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "NSH",
 		"team_name": "Nashville Predators",
-		"last_updated": "2026-10-18"
+		"last_updated": "2026-10-19"
 		},"staff":{"head_coach": "Andrew Brunette", "gm": "Barry Trotz"},
 			"team_stats": {
 			"record": "3-2-3",
@@ -11,8 +11,8 @@
 			"ga": 24,
 			"gf_pg": 2.9,
 			"ga_pg": 3.0,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 19,
+			"rank_division": 6,
 			"hm":"2-2-1",
 			"aw":"1-0-2",
 			"lg":"W 5-2 vs STL (2026-10-17 20:00)",
