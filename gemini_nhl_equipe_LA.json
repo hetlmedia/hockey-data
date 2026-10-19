@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "LA",
 		"team_name": "Los Angeles Kings",
-		"last_updated": "2026-10-18"
+		"last_updated": "2026-10-19"
 		},"staff":{"head_coach": "Peter Laviolette", "gm": "Ken Holland"},
 			"team_stats": {
 			"record": "0-4-2",
@@ -11,8 +11,8 @@
 			"ga": 25,
 			"gf_pg": 2.0,
 			"ga_pg": 4.2,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 32,
+			"rank_division": 8,
 			"hm":"0-3-0",
 			"aw":"0-1-2",
 			"lg":"L 1-4 vs BOS (2026-10-17 21:00)",
