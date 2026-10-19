@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "EDM",
 		"team_name": "Edmonton Oilers",
-		"last_updated": "2026-10-18"
+		"last_updated": "2026-10-19"
 		},"staff":{"head_coach": "Mike Babcock", "gm": "Stan Bowman"},
 			"team_stats": {
 			"record": "6-1-1",
@@ -11,8 +11,8 @@
 			"ga": 24,
 			"gf_pg": 4.6,
 			"ga_pg": 3.0,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 4,
+			"rank_division": 2,
 			"hm":"1-1-1",
 			"aw":"5-0-0",
 			"lg":"W 6-2 @ UTA (2026-10-17 22:00)",
