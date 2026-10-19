@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "WAS",
 		"team_name": "Washington Capitals",
-		"last_updated": "2026-10-18"
+		"last_updated": "2026-10-19"
 		},"staff":{"head_coach": "Spencer Carbery", "gm": "Chris Patrick"},
 			"team_stats": {
 			"record": "5-3-0",
@@ -11,8 +11,8 @@
 			"ga": 24,
 			"gf_pg": 3.5,
 			"ga_pg": 3.0,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 13,
+			"rank_division": 3,
 			"hm":"4-1-0",
 			"aw":"1-2-0",
 			"lg":"W 4-2 vs NJ (2026-10-17 13:00)",
