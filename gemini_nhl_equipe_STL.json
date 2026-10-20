@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "STL",
 		"team_name": "St-Louis Blues",
-		"last_updated": "2026-10-19"
+		"last_updated": "2026-10-20"
 		},"staff":{"head_coach": "Jim Montgomery", "gm": "Doug Armstrong"},
 			"team_stats": {
 			"record": "3-4-1",
@@ -11,8 +11,8 @@
 			"ga": 28,
 			"gf_pg": 3.4,
 			"ga_pg": 3.5,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 25,
+			"rank_division": 7,
 			"hm":"1-0-1",
 			"aw":"2-4-0",
 			"lg":"L 2-5 @ NSH (2026-10-17 20:00)",
