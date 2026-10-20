@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "TB",
 		"team_name": "Tampa Bay Lightning",
-		"last_updated": "2026-10-19"
+		"last_updated": "2026-10-20"
 		},"staff":{"head_coach": "Jon Cooper", "gm": "Julien Brisebois"},
 			"team_stats": {
 			"record": "6-2-0",
@@ -11,8 +11,8 @@
 			"ga": 21,
 			"gf_pg": 3.1,
 			"ga_pg": 2.6,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 8,
+			"rank_division": 2,
 			"hm":"5-0-0",
 			"aw":"1-2-0",
 			"lg":"W 4-2 vs VAN (2026-10-17 16:00)",
