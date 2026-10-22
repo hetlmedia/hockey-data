@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "SEA",
 		"team_name": "Seattle Kraken",
-		"last_updated": "2026-10-21"
+		"last_updated": "2026-10-22"
 		},"staff":{"head_coach": "Lane Lambert", "gm": "Jason Botterill"},
 			"team_stats": {
 			"record": "6-3-1",
@@ -11,8 +11,8 @@
 			"ga": 34,
 			"gf_pg": 3.9,
 			"ga_pg": 3.4,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 10,
+			"rank_division": 3,
 			"hm":"2-1-0",
 			"aw":"4-2-1",
 			"lg":"SW 4-3 vs DET (2026-10-20 21:40)",
