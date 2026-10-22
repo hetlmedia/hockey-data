@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "WPG",
 		"team_name": "Winnipeg Jets",
-		"last_updated": "2026-10-21"
+		"last_updated": "2026-10-22"
 		},"staff":{"head_coach": "Scott Arniel", "gm": "Kevin Cheveldayoff"},
 			"team_stats": {
 			"record": "4-3-2",
@@ -11,8 +11,8 @@
 			"ga": 26,
 			"gf_pg": 2.7,
 			"ga_pg": 2.9,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 19,
+			"rank_division": 5,
 			"hm":"2-2-1",
 			"aw":"2-1-1",
 			"lg":"L 1-2 @ STL (2026-10-20 20:00)",
