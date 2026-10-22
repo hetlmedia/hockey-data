@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "VAN",
 		"team_name": "Vancouver Canucks",
-		"last_updated": "2026-10-21"
+		"last_updated": "2026-10-22"
 		},"staff":{"head_coach": "Manny Malhotra"},
 			"team_stats": {
 			"record": "2-8-1",
@@ -11,8 +11,8 @@
 			"ga": 51,
 			"gf_pg": 3.0,
 			"ga_pg": 4.6,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 30,
+			"rank_division": 6,
 			"hm":"1-3-0",
 			"aw":"1-5-1",
 			"lg":"L 3-6 vs CAR (2026-10-20 22:00)",
