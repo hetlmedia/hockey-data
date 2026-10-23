@@ -81,6 +81,10 @@
 		"hired_date": "2016-08-25"
 	},
 	"general_manager": {
+		"name": "Joe Sakic",
+		"hired_date": "2026-06-02"
+	},
+	"general_manager": {
 		"name": "Chris MacFarland",
 		"hired_date": "2022-07-11"
 	}},{		
@@ -101,8 +105,8 @@
 		"hired_date": "2024-12-26"
 	},
 	"general_manager": {
-		"name": "Steve Yzerman",
-		"hired_date": "2019-04-19"
+		"name": "Shawn Horcoff",
+		"hired_date": "2026-09-15"
 	}},{		
 	"team_abbr": "EDM",
 	"team_name": "Edmonton Oilers",
@@ -171,8 +175,8 @@
 		"hired_date": "2024-05-23"
 	},
 	"general_manager": {
-		"name": "Tom Fitzgerald",
-		"hired_date": "2020-01-12"
+		"name": "Sunny Mehta",
+		"hired_date": "2026-04-16"
 	}},{		
 	"team_abbr": "NSH",
 	"team_name": "Nashville Predators",
@@ -265,8 +269,8 @@
 		"hired_date": "2024-11-24"
 	},
 	"general_manager": {
-		"name": "Doug Armstrong",
-		"hired_date": "2010-07-01"
+		"name": "Alexander Steen",
+		"hired_date": "2026-06-30"
 	}},{		
 	"team_abbr": "TB",
 	"team_name": "Tampa Bay Lightning",
@@ -283,6 +287,10 @@
 	"head_coach": {
 		"name": "Jim Hiller",
 		"hired_date": "2026-06-17"
+	},
+	"general_manager": {
+		"name": "John Chayka",
+		"hired_date": "2026-05-03"
 	}},{		
 	"team_abbr": "UTA",
 	"team_name": "Utah Mammoth",
@@ -299,6 +307,10 @@
 	"head_coach": {
 		"name": "Manny Malhotra",
 		"hired_date": "2026-06-01"
+	},
+	"general_manager": {
+		"name": "Ryan Johnson",
+		"hired_date": "2026-05-14"
 	}},{		
 	"team_abbr": "WAS",
 	"team_name": "Washington Capitals",
