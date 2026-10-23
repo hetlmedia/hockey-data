@@ -3,7 +3,7 @@
 		"team_abbr": "TOR",
 		"team_name": "Toronto Maple Leafs",
 		"last_updated": "2026-10-23"
-		},"staff":{"head_coach": "Jim Hiller"},
+		},"staff":{"head_coach": "Jim Hiller", "gm": "John Chayka"},
 			"team_stats": {
 			"record": "6-4-2",
 			"pts": 14,
