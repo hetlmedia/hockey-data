@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "PHI",
 		"team_name": "Philadelphia Flyers",
-		"last_updated": "2026-10-23"
+		"last_updated": "2026-10-24"
 		},"staff":{"head_coach": "Rick Tocchet", "gm": "Daniel Briere"},
 			"team_stats": {
 			"record": "3-6-3",
@@ -11,8 +11,8 @@
 			"ga": 37,
 			"gf_pg": 1.7,
 			"ga_pg": 3.1,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 26,
+			"rank_division": 7,
 			"hm":"2-2-2",
 			"aw":"1-4-1",
 			"lg":"W 3-1 @ BUF (2026-10-21 19:30)",
