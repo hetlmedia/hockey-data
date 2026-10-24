@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "BOS",
 		"team_name": "Boston Bruins",
-		"last_updated": "2026-10-23"
+		"last_updated": "2026-10-24"
 		},"staff":{"head_coach": "Marco Sturm", "gm": "Don Sweeney"},
 			"team_stats": {
 			"record": "8-2-1",
@@ -11,8 +11,8 @@
 			"ga": 22,
 			"gf_pg": 3.8,
 			"ga_pg": 2.0,
-			"rank_overall": 3,
-			"rank_division": 1,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"4-1-0",
 			"aw":"4-1-1",
 			"lg":"W 6-0 vs NSH (2026-10-22 19:00)",
