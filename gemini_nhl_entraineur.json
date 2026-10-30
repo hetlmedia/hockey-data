@@ -81,12 +81,12 @@
 		"hired_date": "2016-08-25"
 	},
 	"general_manager": {
-		"name": "Chris MacFarland",
-		"hired_date": "2022-07-11"
-	},
-	"general_manager": {
 		"name": "Joe Sakic",
 		"hired_date": "2026-06-02"
+	},
+	"general_manager": {
+		"name": "Chris MacFarland",
+		"hired_date": "2022-07-11"
 	}},{		
 	"team_abbr": "DAL",
 	"team_name": "Dallas Stars",
@@ -211,12 +211,12 @@
 	"team_abbr": "OTT",
 	"team_name": "Ottawa Senators",
 	"head_coach": {
-		"name": "Andrew Campbell",
-		"hired_date": "2025-12-17"
-	},
-	"head_coach": {
 		"name": "Travis Green",
 		"hired_date": "2024-05-07"
+	},
+	"head_coach": {
+		"name": "Andrew Campbell",
+		"hired_date": "2025-12-17"
 	},
 	"general_manager": {
 		"name": "Steve Staios",
