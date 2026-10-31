@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "ANA",
 		"team_name": "Anaheim Ducks",
-		"last_updated": "2026-10-30"
+		"last_updated": "2026-10-31"
 		},"staff":{"head_coach": "Joel Quenneville", "gm": "Pat Verbeek"},
 			"team_stats": {
 			"record": "5-7-1",
@@ -11,8 +11,8 @@
 			"ga": 50,
 			"gf_pg": 3.3,
 			"ga_pg": 3.8,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 26,
+			"rank_division": 6,
 			"hm":"1-4-1",
 			"aw":"4-3-0",
 			"lg":"L 6-7 vs BUF (2026-10-29 22:00)",
