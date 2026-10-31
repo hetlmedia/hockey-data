@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "FLA",
 		"team_name": "Florida Panthers",
-		"last_updated": "2026-10-30"
+		"last_updated": "2026-10-31"
 		},"staff":{"head_coach": "Paul Maurice", "gm": "Bill Zito"},
 			"team_stats": {
 			"record": "8-4-2",
@@ -11,8 +11,8 @@
 			"ga": 39,
 			"gf_pg": 3.1,
 			"ga_pg": 2.8,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 9,
+			"rank_division": 3,
 			"hm":"3-1-0",
 			"aw":"5-3-2",
 			"lg":"W 5-2 vs WPG (2026-10-30 19:00)",
