@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "DAL",
 		"team_name": "Dallas Stars",
-		"last_updated": "2026-10-30"
+		"last_updated": "2026-10-31"
 		},"staff":{"head_coach": "Glen Gulutzan", "gm": "Jim Nill"},
 			"team_stats": {
 			"record": "7-5-1",
@@ -11,8 +11,8 @@
 			"ga": 30,
 			"gf_pg": 2.7,
 			"ga_pg": 2.3,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 17,
+			"rank_division": 4,
 			"hm":"4-4-0",
 			"aw":"3-1-1",
 			"lg":"L 2-5 vs MON (2026-10-29 20:00)",
