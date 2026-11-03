@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "PIT",
 		"team_name": "Pittsburgh Penguins",
-		"last_updated": "2026-11-02"
+		"last_updated": "2026-11-03"
 		},"staff":{"head_coach": "Dan Muse", "gm": "Kyle Dubas"},
 			"team_stats": {
 			"record": "5-7-2",
@@ -11,8 +11,8 @@
 			"ga": 49,
 			"gf_pg": 3.4,
 			"ga_pg": 3.5,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 26,
+			"rank_division": 6,
 			"hm":"4-1-1",
 			"aw":"1-6-1",
 			"lg":"L 4-5 @ MON (2026-10-31 19:00)",
