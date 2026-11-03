@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "TOR",
 		"team_name": "Toronto Maple Leafs",
-		"last_updated": "2026-11-02"
+		"last_updated": "2026-11-03"
 		},"staff":{"head_coach": "Jim Hiller", "gm": "John Chayka"},
 			"team_stats": {
 			"record": "8-6-2",
@@ -11,8 +11,8 @@
 			"ga": 53,
 			"gf_pg": 3.8,
 			"ga_pg": 3.3,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 13,
+			"rank_division": 6,
 			"hm":"4-3-1",
 			"aw":"4-3-1",
 			"lg":"W 4-2 @ VAN (2026-10-31 19:00)",
