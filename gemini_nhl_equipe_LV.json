@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "LV",
 		"team_name": "Vegas Knights",
-		"last_updated": "2026-11-02"
+		"last_updated": "2026-11-03"
 		},"staff":{"head_coach": "Ryan Craig", "gm": "Kelly McCrimmon"},
 			"team_stats": {
 			"record": "9-5-2",
@@ -11,8 +11,8 @@
 			"ga": 47,
 			"gf_pg": 3.4,
 			"ga_pg": 2.9,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 6,
+			"rank_division": 2,
 			"hm":"6-3-0",
 			"aw":"3-2-2",
 			"lg":"SL 2-3 @ BOS (2026-11-2 19:00)",
