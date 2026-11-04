@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "CLB",
 		"team_name": "Columbus Blue Jackets",
-		"last_updated": "2026-11-03"
+		"last_updated": "2026-11-04"
 		},"staff":{"head_coach": "Rick Bowness", "gm": "Don Waddell"},
 			"team_stats": {
 			"record": "6-7-0",
@@ -11,8 +11,8 @@
 			"ga": 41,
 			"gf_pg": 2.8,
 			"ga_pg": 3.2,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 27,
+			"rank_division": 6,
 			"hm":"5-3-0",
 			"aw":"1-4-0",
 			"lg":"W 7-2 vs COL (2026-11-3 19:00)",
