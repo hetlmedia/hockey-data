@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "COL",
 		"team_name": "Colorado Avalanche",
-		"last_updated": "2026-11-03"
+		"last_updated": "2026-11-04"
 		},"staff":{"head_coach": "Jared Bednar", "gm": "Chris MacFarland", "gm": "Joe Sakic"},
 			"team_stats": {
 			"record": "9-6-1",
@@ -11,8 +11,8 @@
 			"ga": 53,
 			"gf_pg": 4.1,
 			"ga_pg": 3.3,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 11,
+			"rank_division": 4,
 			"hm":"6-1-1",
 			"aw":"3-5-0",
 			"lg":"L 2-7 @ CLB (2026-11-3 19:00)",
