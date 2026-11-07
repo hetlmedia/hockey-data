@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "UTA",
 		"team_name": "Utah Mammoth",
-		"last_updated": "2026-11-06"
+		"last_updated": "2026-11-07"
 		},"staff":{"head_coach": "Andre Tourigny", "gm": "Bill Armstrong"},
 			"team_stats": {
 			"record": "10-6-1",
@@ -11,8 +11,8 @@
 			"ga": 59,
 			"gf_pg": 3.6,
 			"ga_pg": 3.5,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 9,
+			"rank_division": 2,
 			"hm":"4-2-0",
 			"aw":"6-4-1",
 			"lg":"OL 4-5 @ MON (2026-11-5 19:00)",
