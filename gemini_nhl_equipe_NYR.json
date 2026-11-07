@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "NYR",
 		"team_name": "New York Rangers",
-		"last_updated": "2026-11-06"
+		"last_updated": "2026-11-07"
 		},"staff":{"head_coach": "Mike Sullivan", "gm": "Chris Drury"},
 			"team_stats": {
 			"record": "9-7-1",
@@ -11,8 +11,8 @@
 			"ga": 49,
 			"gf_pg": 3.0,
 			"ga_pg": 2.9,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 17,
+			"rank_division": 3,
 			"hm":"8-2-0",
 			"aw":"1-5-1",
 			"lg":"W 3-2 vs PHI (2026-11-5 19:00)",
