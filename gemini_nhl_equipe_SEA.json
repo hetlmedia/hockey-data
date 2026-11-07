@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "SEA",
 		"team_name": "Seattle Kraken",
-		"last_updated": "2026-11-06"
+		"last_updated": "2026-11-07"
 		},"staff":{"head_coach": "Lane Lambert", "gm": "Jason Botterill"},
 			"team_stats": {
 			"record": "9-5-1",
@@ -11,8 +11,8 @@
 			"ga": 53,
 			"gf_pg": 3.6,
 			"ga_pg": 3.5,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 14,
+			"rank_division": 3,
 			"hm":"5-2-0",
 			"aw":"4-3-1",
 			"lg":"OW 2-1 vs CGY (2026-11-4 22:00)",
