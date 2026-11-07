@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "BOS",
 		"team_name": "Boston Bruins",
-		"last_updated": "2026-11-06"
+		"last_updated": "2026-11-07"
 		},"staff":{"head_coach": "Marco Sturm", "gm": "Don Sweeney"},
 			"team_stats": {
 			"record": "12-4-1",
@@ -11,8 +11,8 @@
 			"ga": 40,
 			"gf_pg": 3.8,
 			"ga_pg": 2.4,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 3,
+			"rank_division": 1,
 			"hm":"7-1-0",
 			"aw":"5-3-1",
 			"lg":"W 6-2 @ PIT (2026-11-5 19:00)",
