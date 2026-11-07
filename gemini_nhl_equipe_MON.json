@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "MON",
 		"team_name": "Montreal Canadiens",
-		"last_updated": "2026-11-06"
+		"last_updated": "2026-11-07"
 		},"staff":{"head_coach": "Martin St-Louis", "gm": "Kent Hughes"},
 			"team_stats": {
 			"record": "10-3-3",
@@ -11,8 +11,8 @@
 			"ga": 51,
 			"gf_pg": 3.6,
 			"ga_pg": 3.2,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 6,
+			"rank_division": 2,
 			"hm":"5-2-2",
 			"aw":"5-1-1",
 			"lg":"OW 5-4 vs UTA (2026-11-5 19:00)",
