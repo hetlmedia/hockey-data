@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "NYI",
 		"team_name": "New York Islanders",
-		"last_updated": "2026-11-06"
+		"last_updated": "2026-11-07"
 		},"staff":{"head_coach": "Peter DeBoer", "gm": "Mathieu Darche"},
 			"team_stats": {
 			"record": "7-6-2",
@@ -11,8 +11,8 @@
 			"ga": 44,
 			"gf_pg": 2.9,
 			"ga_pg": 2.9,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 22,
+			"rank_division": 5,
 			"hm":"4-3-1",
 			"aw":"3-3-1",
 			"lg":"L 3-5 vs CAR (2026-11-5 19:00)",
