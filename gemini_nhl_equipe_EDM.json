@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "EDM",
 		"team_name": "Edmonton Oilers",
-		"last_updated": "2026-11-06"
+		"last_updated": "2026-11-07"
 		},"staff":{"head_coach": "Mike Babcock", "gm": "Stan Bowman"},
 			"team_stats": {
 			"record": "11-3-3",
@@ -11,8 +11,8 @@
 			"ga": 53,
 			"gf_pg": 4.2,
 			"ga_pg": 3.1,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 4,
+			"rank_division": 1,
 			"hm":"4-3-2",
 			"aw":"7-0-1",
 			"lg":"L 4-5 vs ANA (2026-11-5 20:00)",
