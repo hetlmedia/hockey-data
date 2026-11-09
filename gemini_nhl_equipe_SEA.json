@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "SEA",
 		"team_name": "Seattle Kraken",
-		"last_updated": "2026-11-08"
+		"last_updated": "2026-11-09"
 		},"staff":{"head_coach": "Lane Lambert", "gm": "Jason Botterill"},
 			"team_stats": {
 			"record": "9-6-1",
@@ -11,8 +11,8 @@
 			"ga": 57,
 			"gf_pg": 3.6,
 			"ga_pg": 3.6,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 17,
+			"rank_division": 4,
 			"hm":"5-3-0",
 			"aw":"4-3-1",
 			"lg":"L 3-4 vs NYR (2026-11-7 17:00)",
