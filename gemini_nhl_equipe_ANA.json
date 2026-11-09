@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "ANA",
 		"team_name": "Anaheim Ducks",
-		"last_updated": "2026-11-08"
+		"last_updated": "2026-11-09"
 		},"staff":{"head_coach": "Joel Quenneville", "gm": "Pat Verbeek"},
 			"team_stats": {
 			"record": "10-7-1",
@@ -11,8 +11,8 @@
 			"ga": 66,
 			"gf_pg": 3.8,
 			"ga_pg": 3.7,
-			"rank_overall": 0,
-			"rank_division": 0,
+			"rank_overall": 13,
+			"rank_division": 3,
 			"hm":"3-4-1",
 			"aw":"7-3-0",
 			"lg":"W 5-2 vs PIT (2026-11-8 20:00)",
