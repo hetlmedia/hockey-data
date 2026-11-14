@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "DAL",
 		"team_name": "Dallas Stars",
-		"last_updated": "2026-11-13"
+		"last_updated": "2026-11-14"
 		},"staff":{"head_coach": "Glen Gulutzan", "gm": "Jim Nill"},
 			"team_stats": {
 			"record": "10-6-2",
@@ -11,8 +11,8 @@
 			"ga": 49,
 			"gf_pg": 2.9,
 			"ga_pg": 2.7,
-			"rank_overall": 14,
-			"rank_division": 4,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"6-5-0",
 			"aw":"4-1-2",
 			"lg":"L 3-8 vs WPG (2026-11-12 20:00)",
