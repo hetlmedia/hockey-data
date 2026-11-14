@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "PHI",
 		"team_name": "Philadelphia Flyers",
-		"last_updated": "2026-11-13"
+		"last_updated": "2026-11-14"
 		},"staff":{"head_coach": "Rick Tocchet", "gm": "Daniel Briere"},
 			"team_stats": {
 			"record": "5-10-6",
@@ -11,8 +11,8 @@
 			"ga": 69,
 			"gf_pg": 2.2,
 			"ga_pg": 3.3,
-			"rank_overall": 28,
-			"rank_division": 7,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"3-4-3",
 			"aw":"2-6-3",
 			"lg":"OL 2-3 @ EDM (2026-11-11 21:00)",
