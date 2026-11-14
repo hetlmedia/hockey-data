@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "ANA",
 		"team_name": "Anaheim Ducks",
-		"last_updated": "2026-11-13"
+		"last_updated": "2026-11-14"
 		},"staff":{"head_coach": "Joel Quenneville", "gm": "Pat Verbeek"},
 			"team_stats": {
 			"record": "10-8-1",
@@ -11,8 +11,8 @@
 			"ga": 70,
 			"gf_pg": 3.7,
 			"ga_pg": 3.7,
-			"rank_overall": 16,
-			"rank_division": 3,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"3-5-1",
 			"aw":"7-3-0",
 			"lg":"L 2-4 vs NSH (2026-11-11 22:00)",
