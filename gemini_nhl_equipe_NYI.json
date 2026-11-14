@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "NYI",
 		"team_name": "New York Islanders",
-		"last_updated": "2026-11-13"
+		"last_updated": "2026-11-14"
 		},"staff":{"head_coach": "Peter DeBoer", "gm": "Mathieu Darche"},
 			"team_stats": {
 			"record": "8-6-4",
@@ -11,8 +11,8 @@
 			"ga": 54,
 			"gf_pg": 3.0,
 			"ga_pg": 3.0,
-			"rank_overall": 19,
-			"rank_division": 5,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"4-3-2",
 			"aw":"4-3-2",
 			"lg":"W 5-2 @ LA (2026-11-12 22:00)",
