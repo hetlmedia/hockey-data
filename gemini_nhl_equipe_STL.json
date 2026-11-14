@@ -2,7 +2,7 @@
 		"meta": {
 		"team_abbr": "STL",
 		"team_name": "St-Louis Blues",
-		"last_updated": "2026-11-13"
+		"last_updated": "2026-11-14"
 		},"staff":{"head_coach": "Jim Montgomery", "gm": "Alexander Steen"},
 			"team_stats": {
 			"record": "9-8-2",
@@ -11,8 +11,8 @@
 			"ga": 55,
 			"gf_pg": 2.8,
 			"ga_pg": 2.9,
-			"rank_overall": 20,
-			"rank_division": 7,
+			"rank_overall": 0,
+			"rank_division": 0,
 			"hm":"5-2-1",
 			"aw":"4-6-1",
 			"lg":"SW 1-0 @ UTA (2026-11-12 21:00)",
